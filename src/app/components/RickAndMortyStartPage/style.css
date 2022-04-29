@@ -1,0 +1,28 @@
+.inner {
+    height: 100vh;
+}
+
+.bg-box {
+    text-align: center;
+    padding: 20px;
+}
+
+.link-box {
+    margin-bottom: 10px;
+}
+
+.start-link {
+    padding: 25px;
+    text-decoration: none;
+    border-radius: 15px;
+    background-color: #00b0c8;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 900;
+    display: inline-block;
+}
+
+.start-page__img {
+    width: 210px;
+    margin: 0 auto;
+}

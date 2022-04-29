@@ -5,9 +5,28 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("./app/picture/body-bg3.webp");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  cursor: url("./app/picture/cursor2.png"), auto;
+  /* background-color: #8cfb42; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+button, a, input {
+  cursor: url("./app/picture/cursor2.png"), auto;  
 }
